@@ -4,9 +4,9 @@ an application called Note Taker that can be used to write and save notes. This 
 
 ## Links
 
-| To github repository:                   | To live page: |
-| --------------------------------------- | ------------- |
-| https://github.com/Jwbranch4/Note-Taker |               |
+| To github repository:                   | To live page:                            |
+| --------------------------------------- | ---------------------------------------- |
+| https://github.com/Jwbranch4/Note-Taker | https://polar-river-32996.herokuapp.com/ |
 
 ![screenshot](assets/images/screenshot.png)
 
