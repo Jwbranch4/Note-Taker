@@ -1,6 +1,14 @@
-[
+{
+  "db": [
     {
-        "title":"Test Title",
-        "text":"Test text"
+      "title": "Hello",
+      "text": "hi",
+      "id": "d0fdb372-549a-49ce-b894-ee29ccc6c518"
+    },
+    {
+      "title": "New Note",
+      "text": "This is a new note",
+      "id": "3bbbea11-c104-411f-8336-f222203383b3"
     }
-]
+  ]
+}
